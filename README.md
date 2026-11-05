@@ -8,5 +8,6 @@
 | [ЛР 2 — Kotlin Tasks](lab-02-kotlin-tasks/README.md) | Синтаксис Kotlin, коллекции и корутины |
 | [ЛР 3 — Compose Profile Card](lab-03-compose-profile-card/README.md) | Интерактивный профиль пользователя |
 | [ЛР 4 — Navigation Compose](lab-04-navigation-compose/README.md) | Список пользователей и детальные профили |
+| [ЛР 5 — MVVM и StateFlow](lab-05-mvvm-stateflow-counter/README.md) | Counter с MVVM, StateFlow и сохранением состояния |
 
 Каждый каталог можно открыть отдельно в Android Studio или собрать командой из README соответствующей лабораторной.
