@@ -1,0 +1,14 @@
+.ecc/
+.gradle/
+**/.gradle/
+build/
+**/build/
+out/
+.idea/
+.kotlin/
+*.iml
+.DS_Store
+.env
+.env.*
+DEFENSE.md
+CHECKLIST.md

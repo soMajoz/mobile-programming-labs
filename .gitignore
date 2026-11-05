@@ -1,0 +1,17 @@
+.ecc/
+.idea/
+.gradle/
+**/.gradle/
+**/build/
+**/.kotlin/
+**/local.properties
+**/window.xml
+**/DEFENSE.md
+**/CHECKLIST.md
+private/
+*.iml
+*.jks
+*.keystore
+secrets.properties
+.env
+.env.*
