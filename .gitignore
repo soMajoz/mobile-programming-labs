@@ -15,3 +15,8 @@ private/
 secrets.properties
 .env
 .env.*
+hs_err_pid*.log
+replay_pid*.log
+lab-06-room-todo/current.png
+lab-06-room-todo/dialog.png
+lab-06-room-todo/lab6-*.xml

@@ -9,5 +9,6 @@
 | [ЛР 3 — Compose Profile Card](lab-03-compose-profile-card/README.md) | Интерактивный профиль пользователя |
 | [ЛР 4 — Navigation Compose](lab-04-navigation-compose/README.md) | Список пользователей и детальные профили |
 | [ЛР 5 — MVVM и StateFlow](lab-05-mvvm-stateflow-counter/README.md) | Counter с MVVM, StateFlow и сохранением состояния |
+| [ЛР 6 — Room To-Do](lab-06-room-todo/README.md) | CRUD, поиск, сортировка и локальное хранение задач |
 
 Каждый каталог можно открыть отдельно в Android Studio или собрать командой из README соответствующей лабораторной.
