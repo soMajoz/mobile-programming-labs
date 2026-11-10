@@ -37,3 +37,8 @@ lab-08-pwa-capacitor/screenshots/capacitor-final-check.png
 lab-08-pwa-capacitor/screenshots/capacitor-offline-final.png
 lab-08-pwa-capacitor/android/app/src/androidTest/
 lab-08-pwa-capacitor/android/app/src/test/
+
+/SUMMARY.md
+**/screenshots/*.xml
+**/screenshots/*-preview.png
+**/screenshots/*-current.png
