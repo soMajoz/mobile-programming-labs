@@ -5,6 +5,7 @@
 **/build/
 **/.kotlin/
 **/local.properties
+**/node_modules/
 **/window.xml
 **/DEFENSE.md
 **/CHECKLIST.md
@@ -22,3 +23,17 @@ lab-06-room-todo/dialog.png
 lab-06-room-todo/lab6-*.xml
 lab-07-retrofit-network-cache/current.png
 lab-07-retrofit-network-cache/lab7-*.xml
+lab-08-pwa-capacitor/current.png
+lab-08-pwa-capacitor/lab8-*.xml
+lab-08-pwa-capacitor/screenshots/*.xml
+lab-08-pwa-capacitor/screenshots/capacitor-initial.png
+lab-08-pwa-capacitor/screenshots/capacitor-later.png
+lab-08-pwa-capacitor/screenshots/capacitor-added.png
+lab-08-pwa-capacitor/screenshots/capacitor-two-tasks.png
+lab-08-pwa-capacitor/screenshots/capacitor-completed-filter.png
+lab-08-pwa-capacitor/screenshots/capacitor-after-restart.png
+lab-08-pwa-capacitor/screenshots/capacitor-offline-restart.png
+lab-08-pwa-capacitor/screenshots/capacitor-final-check.png
+lab-08-pwa-capacitor/screenshots/capacitor-offline-final.png
+lab-08-pwa-capacitor/android/app/src/androidTest/
+lab-08-pwa-capacitor/android/app/src/test/

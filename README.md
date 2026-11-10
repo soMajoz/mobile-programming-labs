@@ -11,5 +11,6 @@
 | [ЛР 5 — MVVM и StateFlow](lab-05-mvvm-stateflow-counter/README.md) | Counter с MVVM, StateFlow и сохранением состояния |
 | [ЛР 6 — Room To-Do](lab-06-room-todo/README.md) | CRUD, поиск, сортировка и локальное хранение задач |
 | [ЛР 7 — Retrofit и кеш](lab-07-retrofit-network-cache/README.md) | JSONPlaceholder, пагинация, ошибки и Room-кеш |
+| [ЛР 8 — PWA и Capacitor](lab-08-pwa-capacitor/README.md) | Офлайн-список задач и Android-оболочка |
 
 Каждый каталог можно открыть отдельно в Android Studio или собрать командой из README соответствующей лабораторной.

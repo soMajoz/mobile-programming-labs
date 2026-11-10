@@ -1,0 +1,12 @@
+{
+  "appId": "com.example.pwatodolist",
+  "appName": "Список задач",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false,
+    "webContentsDebuggingEnabled": false
+  }
+}

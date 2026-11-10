@@ -1,0 +1,20 @@
+{
+  "name": "pwa-todolist",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PWA списка задач с офлайн-кешем и Android-оболочкой Capacitor",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "android:add": "cap add android",
+    "android:sync": "cap sync android",
+    "android:open": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "7.6.10",
+    "@capacitor/core": "7.6.10"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "7.6.10"
+  }
+}

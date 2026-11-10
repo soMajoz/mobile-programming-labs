@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Список задач</string>
+    <string name="title_activity_main">Список задач</string>
+    <string name="package_name">com.example.pwatodolist</string>
+    <string name="custom_url_scheme">com.example.pwatodolist</string>
+</resources>
